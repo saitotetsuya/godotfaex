@@ -1,2 +1,2 @@
 # godotfaex
-esse é meu jeito ninja de ser
+Desenvolvimento de jogos RPG/plataforma/arcade.
